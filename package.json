@@ -1,5 +1,5 @@
 {
-  "name": "package.json",
+  "name": "test-bot",
   "version": "1.0.0",
   "description": "A test bot for facebook bot clinic",
   "main": "app.js",
