@@ -1,0 +1,22 @@
+{
+  "name": "package.json",
+  "version": "1.0.0",
+  "description": "A test bot for facebook bot clinic",
+  "main": "app.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+      "start":"node app.js",
+      "test": "echo"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amati254/Test_bot.git"
+  },
+  "author": "Jayson Amati",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amati254/Test_bot/issues"
+  },
+  "homepage": "https://github.com/amati254/Test_bot#readme"
+}
